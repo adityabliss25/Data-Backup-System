@@ -1,0 +1,14 @@
+[
+  {
+    "sku": "A101",
+    "name": "Laptop",
+    "quantity": 5,
+    "price": 1200.0
+  },
+  {
+    "sku": "B202",
+    "name": "Monitor",
+    "quantity": 10,
+    "price": 300.0
+  }
+]
